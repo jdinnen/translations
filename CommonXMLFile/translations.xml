@@ -12002,6 +12002,26 @@
 		<STR lang="es-mx" text="Empleado (Identificación de usuario)" translate="false" />
 		<STR lang="pt-br" text="Funcionário (ID de Usuário)" translate="false" />
 	</STRB>
+	<STRB id="SaveToOneDriveFailMsg" context="" term="true">
+		<STR lang="en-us" text="Please start OneDrive before attempting to save." translate="false" />
+		<STR lang="en-gb" text="" translate="false" />
+		<STR lang="es-us" text="Por favor, inicia OneDrive antes de intentar guardar." translate="false" />
+		<STR lang="fr-ca" text="Veuillez démarrer OneDrive avant d'essayer d'enregistrer." translate="false" />
+		<STR lang="de-de" text="Bitte starten Sie OneDrive, bevor Sie versuchen zu speichern." translate="false" />
+		<STR lang="fr-fr" text="Veuillez démarrer OneDrive avant d'essayer d'enregistrer." translate="false" />
+		<STR lang="es-mx" text="Por favor, inicia OneDrive antes de intentar guardar." translate="false" />
+		<STR lang="pt-br" text="Por favor, inicie o OneDrive antes de tentar salvar." translate="false" />
+	</STRB>
+	<STRB id="HelpCenterTextForShortLiveToken" context="" term="true">
+		<STR lang="en-us" text="Click here to learn more." translate="false" />
+		<STR lang="en-gb" text="" translate="false" />
+		<STR lang="es-us" text="Clic aquí para saber más." translate="false" />
+		<STR lang="fr-ca" text="Cliquez ici pour en savoir plus." translate="false" />
+		<STR lang="de-de" text="Klick hier um mehr zu erfahren." translate="false" />
+		<STR lang="fr-fr" text="Cliquez ici pour en savoir plus." translate="false" />
+		<STR lang="es-mx" text="Clic aquí para saber más." translate="false" />
+		<STR lang="pt-br" text="Clique aqui para saber mais." translate="false" />
+	</STRB>
 	<STRB id="FacilitatorUserLastName" context="" term="true">
 		<STR lang="en-us" text="Facilitator User Last Name" translate="false" />
 		<STR lang="en-gb" text="" translate="false" />
@@ -15714,11 +15734,11 @@
 	<STRB id="IsThisCorrectQuestion" context="" term="true">
 		<STR lang="en-us" text="Is this correct?" translate="false" />
 		<STR lang="en-gb" text="" translate="false" />
-		<STR lang="es-us" text="¿Esto es correcto?" translate="false" />
+		<STR lang="es-us" text="¿Esto está correcto?" translate="false" />
 		<STR lang="fr-ca" text="Est-ce correct?" translate="false" />
 		<STR lang="de-de" text="Ist das korrekt?" translate="false" />
 		<STR lang="fr-fr" text="Est-ce correct ?" translate="false" />
-		<STR lang="es-mx" text="¿Es esto correcto?" translate="false" />
+		<STR lang="es-mx" text="¿Esto está correcto?" translate="false" />
 		<STR lang="pt-br" text="Isto está correto?" translate="false" />
 	</STRB>
 	<STRB id="AllFieldsRequired" context="" term="true">
@@ -15880,7 +15900,7 @@
 		<STR lang="fr-fr" text="Filtrer les groupes" translate="false" />
 		<STR lang="es-mx" text="Filtrar grupos" translate="false" />
 		<STR lang="pt-br" text="Filtrar Grupos" translate="false" />
-	</STRB>
+	</STRB>	
 	<STRB id="RemoveGroupFilter" context="" term="true">
 		<STR lang="en-us" text="Remove Group Filter" translate="false" />
 		<STR lang="en-gb" text="" translate="false" />
@@ -20141,6 +20161,7 @@
 		<STR lang="es-mx" text="No se puede conectar a Internet" translate="false" />
 		<STR lang="pt-br" text="Não é possível conectar a Internet" translate="false" />
 	</STRB>
+	
 	<STRB id="UnableToConnectCheckNetworkSettingsOrUrl" context="" term="false">
 		<STR lang="en-us" text="Unable to connect, please check your network settings or Manager URL." translate="false" />
 		<STR lang="en-gb" text="" translate="false" />
@@ -23712,14 +23733,14 @@
 		<STR lang="pt-br" text="Novo: scripts do curso de exportação" translate="true" />
 	</STRB>
 	<STRB id="NewExportAlertBody" context="" term="false">
-		<STR lang="en-us" text="You can now use the export button view an Alchemy course script. Your Manager account must have permissions ON to use this feature." translate="false" />
+		<STR lang="en-us" text="You can now use the export button view an Alchemy course script." translate="false" />
 		<STR lang="en-gb" text="" translate="false" />
-		<STR lang="es-us" text="Ahora puede usar el botón Exportar Ver un script de curso de Alchemy. Su cuenta de Manager debe tener permisos para usar esta función." translate="true" />
-		<STR lang="fr-ca" text="Vous pouvez désormais utiliser le bouton d'exportation Affichage d'un script de cours d'Alchemy. Votre compte Manager doit avoir des autorisations pour utiliser cette fonctionnalité." translate="true" />
-		<STR lang="de-de" text="Sie können jetzt die Export -Schaltfläche verwenden, die ein Alchemy -Kurskript anzeigen können. Ihr Manager -Konto muss Berechtigungen haben, um diese Funktion zu verwenden." translate="true" />
-		<STR lang="fr-fr" text="Vous pouvez désormais utiliser le bouton d'exportation Affichage d'un script de cours d'Alchemy. Votre compte Manager doit avoir des autorisations pour utiliser cette fonctionnalité." translate="true" />
-		<STR lang="es-mx" text="Ahora puede usar el botón Exportar Ver un script de curso de Alchemy. Su cuenta de Manager debe tener permisos para usar esta función." translate="true" />
-		<STR lang="pt-br" text="Agora você pode usar o botão Exportar o botão Visualizar um script do curso de Alchemy. Sua conta de Manager deve ter permissões para usar esse recurso." translate="true" />
+		<STR lang="es-us" text="Ahora puede usar el botón Exportar Ver un script de curso de Alchemy." translate="true" />
+		<STR lang="fr-ca" text="Vous pouvez désormais utiliser le bouton d'exportation Affichage d'un script de cours d'Alchemy." translate="true" />
+		<STR lang="de-de" text="Sie können jetzt die Export -Schaltfläche verwenden, die ein Alchemy -Kurskript anzeigen können." translate="true" />
+		<STR lang="fr-fr" text="Vous pouvez désormais utiliser le bouton d'exportation Affichage d'un script de cours d'Alchemy." translate="true" />
+		<STR lang="es-mx" text="Ahora puede usar el botón Exportar Ver un script de curso de Alchemy." translate="true" />
+		<STR lang="pt-br" text="Agora você pode usar o botão Exportar o botão Visualizar um script do curso de Alchemy." translate="true" />
 	</STRB>
 	<STRB id="ExportQuestion" context="" term="false">
 		<STR lang="en-us" text="What would you like to export?" translate="false" />
@@ -23900,5 +23921,45 @@
 		<STR lang="fr-fr" text="Pour accéder aux cours en ligne, vous devrez mettre à jour l'application Playbook vers la dernière version.  Cependant, vous pouvez toujours télécharger des cours pour une lecture hors ligne." translate="true" />
 		<STR lang="es-mx" text="Para acceder a los cursos en línea, deberá actualizar la aplicación Playbook a la última versión.  Sin embargo, aún puedes descargar cursos para reproducirlos sin conexión." translate="true" />
 		<STR lang="pt-br" text="Para acessar os cursos online, você precisará atualizar o aplicativo Playbook para a versão mais recente.  No entanto, você ainda pode baixar cursos para reprodução offline." translate="true" />
+	</STRB>
+	<STRB id="Delay" context="" term="false">
+		<STR lang="en-us" text="Delay" translate="false" />
+		<STR lang="en-gb" text="" translate="false" />
+		<STR lang="es-us" text="Demora" translate="true" />
+		<STR lang="fr-ca" text="Retard" translate="true" />
+		<STR lang="de-de" text="Verzögerung" translate="true" />
+		<STR lang="fr-fr" text="Retard" translate="true" />
+		<STR lang="es-mx" text="Demora" translate="true" />
+		<STR lang="pt-br" text="Atraso" translate="true" />
+	</STRB>
+	<STRB id="ExportSlideAudio" context="" term="false">
+		<STR lang="en-us" text="Slide contains Audio" translate="false" />
+		<STR lang="en-gb" text="" translate="false" />
+		<STR lang="es-us" text="La diapositiva contiene audio." translate="true" />
+		<STR lang="fr-ca" text="La diapositive contient de l'audio" translate="true" />
+		<STR lang="de-de" text="Folie enthält Audio" translate="true" />
+		<STR lang="fr-fr" text="La diapositive contient de l'audio" translate="true" />
+		<STR lang="es-mx" text="La diapositiva contiene audio." translate="true" />
+		<STR lang="pt-br" text="O slide contém áudio" translate="true" />
+	</STRB>
+	<STRB id="ExportSlideFullScreen" context="" term="false">
+		<STR lang="en-us" text="Slide is full screen" translate="false" />
+		<STR lang="en-gb" text="" translate="false" />
+		<STR lang="es-us" text="La diapositiva está en pantalla completa." translate="true" />
+		<STR lang="fr-ca" text="La diapositive est en plein écran" translate="true" />
+		<STR lang="de-de" text="Die Folie ist im Vollbildmodus" translate="true" />
+		<STR lang="fr-fr" text="La diapositive est en plein écran" translate="true" />
+		<STR lang="es-mx" text="La diapositiva está en pantalla completa." translate="true" />
+		<STR lang="pt-br" text="O slide está em tela cheia" translate="true" />
+	</STRB>
+	<STRB id="ExportSlideManualAdvance" context="" term="false">
+		<STR lang="en-us" text="Manual Advance is enabled" translate="false" />
+		<STR lang="en-gb" text="" translate="false" />
+		<STR lang="es-us" text="El avance manual está habilitado" translate="true" />
+		<STR lang="fr-ca" text="L'avance manuelle est activée" translate="true" />
+		<STR lang="de-de" text="Manueller Vorlauf ist aktiviert" translate="true" />
+		<STR lang="fr-fr" text="L'avance manuelle est activée" translate="true" />
+		<STR lang="es-mx" text="El avance manual está habilitado" translate="true" />
+		<STR lang="pt-br" text="O avanço manual está ativado" translate="true" />
 	</STRB>
 </STRBList>
